@@ -6,7 +6,7 @@
 
 **ROLL NO: 212223220018**
 
-**DEPARTMENT: B.Tech-IT **
+**DEPARTMENT: B.Tech-IT**
 
 ## Aim:
 
