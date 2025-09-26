@@ -147,6 +147,7 @@ int main(void)
   /* Infinite loop */
   while (1)
   {
+    printf("Dharunyadevi S\n");
     printf("Saveetha Engineering College\r\n");
     printf("SCOFT\r\n");
     HAL_Delay(500); // 500 ms delay
@@ -257,10 +258,10 @@ void Error_Handler(void)
 
 
 ## Output screen shots of Serial port utility   :
+
  
- 
- 
- <img width="987" height="829" alt="491713304-cf3536ac-83cd-48b8-a3f3-7f18a0d1bc09" src="https://github.com/user-attachments/assets/ce2c72c9-5aa4-4ffe-963c-fa9b08871e91" />
+ <img width="995" height="744" alt="Screenshot 2025-09-26 090428" src="https://github.com/user-attachments/assets/57e35fbd-92bc-4f96-b2a6-39d7348f4695" />
+
 
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
